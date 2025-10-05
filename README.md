@@ -1,4 +1,4 @@
-# 🐍 S424 – Lab 4: Python Core Concepts
+# S424 – Lab 4: Python Core Concepts
 
 **Name:** Abdulaziz Alkhlaiwe
 **Course:** IS424
